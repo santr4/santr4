@@ -21,10 +21,13 @@
 
 - 🌱 I’m currently learning data science and I am also doing competitive programming.
 - 💡 My codeforces account: https://codeforces.com/profile/tumse_na_ho_paega
+- 📌My leetcode account: https://leetcode.com/user2967ew/
 - 😄 I like to know more about new technologies and electronic devices. I am also interested in AI.
 - ⚡ Fun fact: I like football more than anything else!
 - 📫 How to reach me: My emai id: santra.aaranyak16092003@gmail.com
+- 📬 My alternate email: amenu4cse21401@am.students.amrita.edu
 - ⌨️ I do touch typing. (monkey type: https://monkeytype.com/account)
+- 😊 If any suggestion or advice then do contact me.
 - 😉 Hobbies:
    - ⚽ football
    - 🏏 cricket
@@ -73,7 +76,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 
 -->
