@@ -24,6 +24,8 @@
 - ⚡ Fun fact: I like football more than anything else!
 - 📫 How to reach me: My emai id: santra.aaranyak16092003@gmail.com
 - 💻 My device specifications:
+
+
 | Device name | LAPTOP-8THC626N |
 |:---------:|:----------------------------------:|
 | Processor | 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz   3.30 GHz |
