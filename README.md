@@ -53,6 +53,8 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AaranyakSantra7&theme=dark&background=000000)](https://git.io/streak-stats)
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AaranyakSantra7&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+  
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
  
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
