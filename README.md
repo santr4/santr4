@@ -23,6 +23,18 @@
 - 😄 I like to know more about new technologies and electronic devices. I am also interested in AI.
 - ⚡ Fun fact: I like football more than anything else!
 - 📫 How to reach me: My emai id: santra.aaranyak16092003@gmail.com
+- 💻 My device specifications:
+| Device name | LAPTOP-8THC626N |
+|:---------:|:----------------------------------:|
+| Processor | 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz   3.30 GHz |
+
+| Installed RAM | 16.0 GB (15.8 GB usable) |
+|:---------:|:----------------------------------:|
+| System type | 64-bit operating system, x64-based processor |
+
+| Windows edition | Windows 10 Home Single Language |
+|:---------:|:----------------------------------:|
+| Windows version | 21H2 |
 
 ### :hammer_and_wrench: Languages, Tools and Databases :
 
