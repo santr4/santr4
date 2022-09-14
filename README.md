@@ -1,4 +1,4 @@
-### Hi there , I am Aaranyak Santra 👋.
+### Hey there , I am Aaranyak Santra 👋.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
