@@ -13,6 +13,9 @@
  <div id = "badges">
    <img src="https://komarev.com/ghpvc/?username=AaranyakSantra7&style=flat-square&color=blue" alt=""/>
   </div>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
