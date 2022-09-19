@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning data science, web development and I am also doing competitive programming.
+- 🌱 I’m currently learning web development and I am also doing competitive programming.
 - 💡  My codeforces account: https://codeforces.com/profile/tumse_na_ho_paega
 - 😄 I like to know more about new technologies and electronic devices. I am also interested in AI.
 - 📈 I like to solve math problems in my free time.
