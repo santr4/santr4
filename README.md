@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning web development and I am also doing competitive programming.
 - 💡  My codeforces account: https://codeforces.com/profile/tumse_na_ho_paega
-- 😄 I like to know more about new technologies and electronic devices. I am also interested in AI.
+- 😄 I like to know more about new technologies and electronic devices. I am also interested in AI and web development.
 - 📈 I like to solve math problems in my free time.
-- ⚡ Fun fact: I like football more than anything else!
+- ⚡ Fun fact: I can play football the whole day!
 - 📫 How to reach me: My emai id: santra.aaranyak16092003@gmail.com
 - 📬 My alternate email: amenu4cse21401@am.students.amrita.edu
 - ⌨️ I do touch typing. (monkey type: https://monkeytype.com/account)
