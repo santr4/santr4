@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 
 - 🌱 I’m currently learning web development and I am also doing competitive programming.
-- 💡  My codeforces account: https://codeforces.com/profile/tumse_na_ho_paega
+- 💡  My leetcode account: https://leetcode.com/user2967ew/
 - 😄 I like to know more about new technologies and electronic devices. I am also interested in AI and web development.
 - 📈 I like to solve math problems in my free time.
 - ⚡ Fun fact: I can play football the whole day and I love watching anime(favourite anime: a silent voice).
