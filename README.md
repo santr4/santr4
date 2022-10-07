@@ -29,6 +29,7 @@
 - ⌨️ I do touch typing. (monkey type: https://monkeytype.com/account)
 - 😊 If any suggestion or advice then do contact me.
 - 🖥️ My monkeytype account : https://monkeytype.com/account
+- ⭐ My replit account - https://replit.com/@AaranyakSantra
 - 😉 Hobbies:
    - ⚽ football
    - 🏏 cricket
