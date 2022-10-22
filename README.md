@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development and data science.
 - 💡  My codeforces account: https://codeforces.com/profile/Aaranyak_Santra
 - 😄 I like to know more about new technologies and electronic devices. I am also interested in AI and web development.
 - 📈 I like to solve math problems in my free time.
