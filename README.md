@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 
 - 🌱 I’m currently learning web development and data science.
-- 💡  My codechef account: https://www.codechef.com/
+- 💡  My codeforces account: https://codeforces.com/profile/Aaranyak_Santra
 - ⏳  My leetcode account: https://leetcode.com/user2973j/
 - 😄 I like to know more about new technologies and electronic devices. I am also interested in AI and web development.
 - 📈 I like to solve math problems in my free time.
