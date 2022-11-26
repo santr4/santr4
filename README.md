@@ -19,23 +19,24 @@
 
 ### :man_technologist: About Me :
 
-- 💡  My codeforces account - https://codeforces.com/profile/Aaranyak_Santra
-- ⏳  My leetcode account: https://leetcode.com/user2973j/
-- 😄 I like to know more about new technologies and electronic devices. I am also interested in AI and web development.
-- 📈 I like to solve math problems in my free time.
-- ⚡ Fun fact: I can play football the whole day and I love watching anime(favourite anime: a silent voice).
-- 📫 How to reach me: My emai id: santra.aaranyak16092003@gmail.com
-- 📬 My alternate email: amenu4cse21401@am.students.amrita.edu
-- ⌨️ I do touch typing. (monkey type: https://monkeytype.com/account)
-- 😊 If any suggestion or advice then do contact me.
-- 🖥️ My monkeytype account : https://monkeytype.com/account
-- ⭐ My replit account - https://replit.com/@AaranyakSantra
-- 😉 Hobbies:
-   - ⚽ football
-   - 🏏 cricket
-   - 🚴 cycling
-   - 📕 reading books
-   - 💻 coding
+- My codeforces account - https://codeforces.com/profile/Aaranyak_Santra
+- My codechef account - https://www.codechef.com/users/aaranyak_07
+- My leetcode account: https://leetcode.com/user2973j/
+- I like to know more about new technologies and electronic devices. I am also interested in AI and web development.
+- I like to solve math problems in my free time.
+- Fun fact: I can play football the whole day and I love watching anime(favourite anime: a silent voice).
+- How to reach me: My emai id: santra.aaranyak16092003@gmail.com
+- My alternate email: amenu4cse21401@am.students.amrita.edu
+- I do touch typing. (monkey type: https://monkeytype.com/account)
+- If any suggestion or advice then do contact me.
+- My monkeytype account : https://monkeytype.com/account
+- My replit account - https://replit.com/@AaranyakSantra
+- Hobbies:
+   - football
+   - cricket
+   - cycling
+   - reading books
+   - coding
 - 💻 My device specifications:
 
 
