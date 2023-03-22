@@ -19,7 +19,6 @@
 
 ### :man_technologist: About Me :
 
-- My codeforces account : https://codeforces.com/profile/Aaranyak_Santra
 - My leetcode account: https://leetcode.com/user2973j/
 - My codechef account : https://www.codechef.com/users/aaranyak_07
 - I like to know more about new technologies and electronic devices.
