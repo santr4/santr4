@@ -20,7 +20,6 @@
 ### :man_technologist: About Me :
 
 - My leetcode account: https://leetcode.com/user2973j/
-- My codechef account : https://www.codechef.com/users/aaranyak_07
 - I like to know more about new technologies and electronic devices.
 - I like to solve math problems in my free time.
 - How to reach me: My emai id: santra.aaranyak16092003@gmail.com
