@@ -20,6 +20,7 @@
 ### :man_technologist: About Me :
 
 - I like to know more about new technologies and electronic devices.
+- I am deeply interested in AI,machine learning and deep learning.
 - I like to solve math problems in my free time.
 - How to reach me: My emai id: santra.aaranyak16092003@gmail.com
 - If any suggestion or advice then do contact me.
