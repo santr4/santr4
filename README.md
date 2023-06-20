@@ -26,7 +26,7 @@
 - If any suggestion or advice then do contact me.
 - My monkeytype account : https://monkeytype.com/account
 - 💻 My device specifications:
-- I do blogging. My blog channel - https://aaranyaksantra.wordpress.com/
+- I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
 
 
 | Device name | LAPTOP-8THC626N |
