@@ -20,14 +20,13 @@
 ### :man_technologist: About Me :
 
 - I like to know more about new technologies and electronic devices.
-- I am deeply interested in AI,machine learning and deep learning.
+- I am deeply interested in AI, machine learning, and deep learning.
 - I like to solve math problems in my free time.
-- How to reach me: My emai id: santra.aaranyak16092003@gmail.com
-- If any suggestion or advice then do contact me.
-- My monkeytype account : https://monkeytype.com/account
+- How to reach me: My email id: santra.aaranyak16092003@gmail.com
+- If any suggestions or advice then do contact me.
+- My monkey type account : https://monkeytype.com/account
+-  I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
 - 💻 My device specifications:
-- I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
-
 
 | Device name | LAPTOP-8THC626N |
 |:---------:|:----------------------------------:|
@@ -41,7 +40,7 @@
 |:---------:|:----------------------------------:|
 | Windows version | 21H2 |
 
-### :hammer_and_wrench: Languages, Tools and Databases :
+### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"       style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
