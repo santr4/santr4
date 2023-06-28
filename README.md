@@ -53,6 +53,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" title="keras" alt="keras" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="tensorflow" alt="tensorflow" width="80" height="40"/>&nbsp;
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="wordpress" alt="wordpress" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="kaggle" alt="kaggle" width="80" height="40"/>&nbsp;
+  
 </div>
   
 
