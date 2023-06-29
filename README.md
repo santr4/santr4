@@ -59,10 +59,7 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="kaggle" alt="kaggle" width="80" height="30"/>&nbsp;
   
 </div>
-<div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=santr4)](https://github.com/santr4/github-profile-trophy)
 
-</div>
 
  
  
