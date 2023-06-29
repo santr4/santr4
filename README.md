@@ -60,7 +60,7 @@
   
 </div>
 <div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AaranyakSantra)](https://github.com/santr4/github-profile-trophy)
+  (https://github-profile-trophy.vercel.app/?username=santr4)](https://github.com/santr4/github-profile-trophy)
 
 </div>
 
