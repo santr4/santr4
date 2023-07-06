@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
 <div>
-  <a href="https://twitter.com/santra_aaranyak">
+  <a href="https://twitter.com/SantraAaranyak">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/aaranyak-santra-a9ba7321a/">
