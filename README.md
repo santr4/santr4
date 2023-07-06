@@ -58,6 +58,7 @@
    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="wordpress" alt="wordpress" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="kaggle" alt="kaggle" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="pytorch" alt="pytorch" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" title="colab" alt="colab" width="80" height="30"/>&nbsp;
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santr4&theme=dark&background=000000)](https://git.io/streak-stats)
