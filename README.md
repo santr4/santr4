@@ -29,6 +29,7 @@
 - My monkey type account : https://monkeytype.com/account
 -  I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
 - 💻 My device specifications:
+- My medium account - https://medium.com/@santra.aaranyak16092003
 
 | Device name | LAPTOP-8THC626N |
 |:---------:|:----------------------------------:|
