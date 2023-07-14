@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/santr4"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+![image](https://github.com/santr4/santr4/assets/92260952/85568bda-4920-427f-9a5a-9a12c90b388d)<p align="center"><a href="https://github.com/santr4"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ### Hey there , I am Aaranyak Santra 👋.
 <div id="header" align="center">
@@ -67,6 +67,8 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santr4&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@santra.aaranyak16092003/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@santra.aaranyak16092003/0" alt="Recent Article 0"> 
 
 
 <!--
