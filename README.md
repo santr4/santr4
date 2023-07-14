@@ -31,7 +31,7 @@
 - 💻 My device specifications:
 - My medium account - https://medium.com/@santra.aaranyak16092003
 
-  ![image](https://github.com/santr4/santr4/assets/92260952/46e8da13-b7b6-4d74-a884-43fdabb1de7b)
+![image](https://github.com/santr4/santr4/assets/92260952/46e8da13-b7b6-4d74-a884-43fdabb1de7b)
 
 
 | Device name | LAPTOP-8THC626N |
