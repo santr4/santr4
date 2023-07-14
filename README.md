@@ -31,6 +31,9 @@
 - 💻 My device specifications:
 - My medium account - https://medium.com/@santra.aaranyak16092003
 
+  ![image](https://github.com/santr4/santr4/assets/92260952/46e8da13-b7b6-4d74-a884-43fdabb1de7b)
+
+
 | Device name | LAPTOP-8THC626N |
 |:---------:|:----------------------------------:|
 | Processor | 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz   3.30 GHz |
