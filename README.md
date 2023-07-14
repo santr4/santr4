@@ -66,9 +66,7 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" title="leetcode" alt="leetcode" width="80" height="30"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santr4&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@santra.aaranyak16092003/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@santra.aaranyak16092003/0" alt="Recent Article 0"> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santr4&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 
 <!--
