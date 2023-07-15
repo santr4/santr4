@@ -33,8 +33,6 @@
 
 ![image](https://github.com/santr4/santr4/assets/92260952/46e8da13-b7b6-4d74-a884-43fdabb1de7b)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@santra.aaranyak16092003/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@santra.aaranyak16092003/0" alt="Recent Article 0"> 
-
 
 | Device name | LAPTOP-8THC626N |
 |:---------:|:----------------------------------:|
