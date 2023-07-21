@@ -46,6 +46,9 @@
 |:---------:|:----------------------------------:|
 | Windows version | 21H2 |
 
+
+![yogitocat](https://github.com/santr4/santr4/assets/92260952/1a877943-290f-4702-8329-f5b435c65b49)
+
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"       style="vertical-align:top; margin:4px">
