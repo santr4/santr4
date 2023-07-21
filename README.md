@@ -33,20 +33,6 @@
 
 ![image](https://github.com/santr4/santr4/assets/92260952/46e8da13-b7b6-4d74-a884-43fdabb1de7b)
 
-
-| Device name | LAPTOP-8THC626N |
-|:---------:|:----------------------------------:|
-| Processor | 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz   3.30 GHz |
-
-| Installed RAM | 16.0 GB (15.8 GB usable) |
-|:---------:|:----------------------------------:|
-| System type | 64-bit operating system, x64-based processor |
-
-| Windows edition | Windows 10 Home Single Language |
-|:---------:|:----------------------------------:|
-| Windows version | 21H2 |
-
-
 ![yogitocat](https://github.com/santr4/santr4/assets/92260952/1a877943-290f-4702-8329-f5b435c65b49)
 
 ### :hammer_and_wrench: Languages, Tools, and Databases :
