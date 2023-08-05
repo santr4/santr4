@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="scikit learn" alt="scikit learn" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" title="debian" alt="debian" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" title="leetcode" alt="leetcode" width="80" height="30"/>&nbsp;
-  <img src="	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" title="pandas" alt="pandas" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" title="pandas" alt="pandas" width="80" height="30"/>&nbsp;
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santr4&theme=dark&background=000000)](https://git.io/streak-stats) 
