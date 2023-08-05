@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="python" alt="pyhton" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="scikit-learn" alt="scikit-learn" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="scikit-learn" alt="scikit-learn" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scikit-learn" width="80" height="30"/>&nbsp;
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santr4&theme=dark&background=000000)](https://git.io/streak-stats) 
