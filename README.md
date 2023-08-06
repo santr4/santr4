@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="pytorch" alt="pytorch" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" title="colab" alt="colab" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="vscode" alt="vscode" width="80" height="30"/>&nbsp;
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="scikit learn" alt="scikit learn" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" title="debian" alt="debian" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" title="leetcode" alt="leetcode" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" title="pandas" alt="pandas" width="80" height="30"/>&nbsp;
