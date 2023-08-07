@@ -2,8 +2,6 @@
 
 ![intro](https://github.com/santr4/santr4/assets/92260952/ff719a3f-49b1-42a9-b05f-c10d04b4f299)
 
-
-### Hey there , I am Aaranyak Santra 👋.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
