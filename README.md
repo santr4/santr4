@@ -62,8 +62,6 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scikit-learn" width="80" height="30"/>&nbsp;
 </div>
 
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=santr4&theme=dark)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santr4&show_icons=true&theme=blueberry)
 
 
