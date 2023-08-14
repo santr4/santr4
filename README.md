@@ -32,6 +32,8 @@
 - 💻 My device specifications:
 - My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santr4&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"       style="vertical-align:top; margin:4px">
