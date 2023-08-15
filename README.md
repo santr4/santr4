@@ -62,9 +62,7 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scikit-learn" width="80" height="30"/>&nbsp;
 </div>
 
-<div>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=merko&preferLogin=false">    <img  alt="santr4's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/santr4?cardType=github&theme=merko&preferLogin=false" />  </a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santr4&theme=merko)](https://git.io/streak-stats)
 
 
 <!--
