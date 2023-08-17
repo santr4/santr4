@@ -31,6 +31,7 @@
 -  I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
 - 💻 My device specifications:
 - My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
+- My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santr4&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
