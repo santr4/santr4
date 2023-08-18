@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scikit-learn" width="80" height="30"/>&nbsp;
 </div>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santr4?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
