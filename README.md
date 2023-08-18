@@ -33,8 +33,6 @@
 - My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
 - My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santr4&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"       style="vertical-align:top; margin:4px">
@@ -62,8 +60,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="scikit-learn" alt="scikit-learn" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scikit-learn" width="80" height="30"/>&nbsp;
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santr4&theme=merko)](https://git.io/streak-stats)
 
 
 <!--
