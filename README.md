@@ -32,6 +32,7 @@
 - 💻 My device specifications:
 - My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
 - My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf)
+- My leetcode account - https://leetcode.com/user2973j/
 
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
