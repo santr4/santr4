@@ -30,6 +30,7 @@
 - My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
 - My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf)
 - My leetcode account - https://leetcode.com/user2973j/
+- My GeeksForGeeks account - https://auth.geeksforgeeks.org/user/santraaaranyak16092003
 
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
