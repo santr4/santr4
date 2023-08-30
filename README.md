@@ -31,6 +31,7 @@
 - My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf)
 - My leetcode account - https://leetcode.com/user2973j/
 - My GeeksForGeeks account - https://auth.geeksforgeeks.org/user/santraaaranyak16092003
+- A simple portfolio - https://spectacular-piroshki-042a5b.netlify.app/
 
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
