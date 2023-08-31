@@ -63,7 +63,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santr4?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santr4&theme=gruvbox-duo)](https://git.io/streak-stats)
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
