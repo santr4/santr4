@@ -25,8 +25,8 @@
 - How to reach me: My email id: santra.aaranyak16092003@gmail.com
 - If any suggestions or advice then do contact me.
 - My monkey type account : https://monkeytype.com/account
--  I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
-- 💻 My device specifications:
+- I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
+- My discord username : aaranyaksantra_89984
 - My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
 - My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf)
 - My leetcode account - https://leetcode.com/user2973j/
