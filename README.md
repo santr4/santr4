@@ -4,6 +4,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
+  <a href="https://www.flaticon.com/free-stickers/computer" title="computer stickers">Computer stickers created by Stickers - Flaticon</a>
 </div>
 <div>
   <a href="https://twitter.com/SantraAaranyak">
