@@ -4,8 +4,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
-  <a href="https://www.flaticon.com/free-stickers/computer" title="computer stickers">Computer stickers created by Stickers - Flaticon</a>
 </div>
+<a href="https://www.flaticon.com/free-stickers/computer" title="computer stickers">Computer stickers created by Stickers - Flaticon</a>
 <div>
   <a href="https://twitter.com/SantraAaranyak">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
