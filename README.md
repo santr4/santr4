@@ -25,7 +25,7 @@
 - I like to solve math problems in my free time.
 - How to reach me: My email id: santra.aaranyak16092003@gmail.com
 - If any suggestions or advice then do contact me.
-- My monkey type account : https://monkeytype.com/account
+- My monkey type account(70+ wpm) : https://monkeytype.com/account
 - I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
 - My discord username : aaranyaksantra_89984
 - My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
