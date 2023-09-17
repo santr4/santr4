@@ -1,7 +1,5 @@
 <p align="center"><a href="https://github.com/santr4"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-![intro](https://github.com/santr4/santr4/assets/92260952/ff719a3f-49b1-42a9-b05f-c10d04b4f299)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
