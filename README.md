@@ -20,19 +20,25 @@
 
 ### :man_technologist: About Me :
 
-- I like to know more about new technologies and electronic devices.
-- I am deeply interested in AI, machine learning, and deep learning.
-- I like to solve math problems in my free time.
-- How to reach me: My email id: santra.aaranyak16092003@gmail.com
-- If any suggestions or advice then do contact me.
-- My monkey type account(70+ wpm) : https://monkeytype.com/account
-- I do blogging. My blog channel - https://aaranyaksantra.wordpress.com
-- My discord username : aaranyaksantra_89984
-- My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
-- My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf)
-- My leetcode account - https://leetcode.com/user2973j/
-- My GeeksForGeeks account - https://auth.geeksforgeeks.org/user/santraaaranyak16092003
-- A simple portfolio - https://spectacular-piroshki-042a5b.netlify.app/
+- 👀 I like to know more about new tech around the world!
+  
+- 👀 I am deeply interested in AI, machine learning, and deep learning and currently spending most of the time learning about it and spending time on kaggle.
+  
+- 📧 How to reach me: My email id: santra.aaranyak16092003@gmail.com
+
+- 💡 If any suggestions or advice then do contact me.
+  
+- ⌨️ My monkey type account(70+ wpm) : https://monkeytype.com/account
+  
+- ✏️ I do blogging: My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
+  
+- 📌 My discord username : aaranyaksantra_89984
+  
+- 📄 My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf) (not the updated one).
+  
+- 🧮 My leetcode account - https://leetcode.com/user2973j/
+  
+- 💻 A simple portfolio - https://spectacular-piroshki-042a5b.netlify.app/
 
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
