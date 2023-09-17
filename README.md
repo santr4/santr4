@@ -38,6 +38,8 @@
   
 - 💻 A simple portfolio - https://spectacular-piroshki-042a5b.netlify.app/
 
+- ⚡ Fun fact Love to learn , Think , Implement
+
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
