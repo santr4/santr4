@@ -27,20 +27,27 @@
 - 📧 How to reach me: My email id: santra.aaranyak16092003@gmail.com
 
 - 💡 If any suggestions or advice then do contact me.
-  
+
+- My skills:
+     - HTML, CSS, JavaScript, Bootstrap, etc.
+     - Tensorflow, Keras, Pytorch, Numpy, Matplotlib, Seaborn, Machine Learning, Deep Learning, NLP, PostgreSQL, MS Excel, Python, R, Statistics, Probability, Vector Algebra, Data Analysis, sklearn, fastAI, etc.
+     - Proficient in Java, C++, C, and Python.
+     - CS Fundamentals.
+     - DataStructures and Algorithms.
+       
 - ⌨️ My monkey type account(70+ wpm) : https://monkeytype.com/account
   
 - ✏️ I do blogging: My medium account(I post articles on medium) - https://medium.com/@santra.aaranyak16092003
   
-- 📌 My discord username : aaranyaksantra_89984
+- 📌 My discord username: aaranyaksantra_89984
   
 - 📄 My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf) (not the updated one).
   
-- 🧮 My leetcode account - https://leetcode.com/user2973j/
+- 🧮 My Leetcode account - https://leetcode.com/user2973j/
   
 - 💻 A simple portfolio - https://spectacular-piroshki-042a5b.netlify.app/
 
-- ⚡ Fun fact Love to learn , Think , Implement
+- ⚡ Fun fact Love to learn, think, and implement.
 
 ### :hammer_and_wrench: Languages, Tools, and Databases :
 <div>
