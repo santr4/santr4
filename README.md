@@ -19,6 +19,8 @@
 ### :man_technologist: About Me :
 
 - 👀 I like to know more about new tech around the world!
+
+- 🌱 I’m currently learning JavaScript(Front End Development).
   
 - 👀 I am deeply interested in AI, machine learning, and deep learning and currently spending most of the time learning about it and spending time on kaggle.
   
