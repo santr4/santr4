@@ -28,7 +28,7 @@
 
 - 💡 If any suggestions or advice then do contact me.
 
-- My skills:
+- 🔭 My skills:
      - HTML, CSS, JavaScript, Bootstrap, etc.
      - Tensorflow, Keras, Pytorch, Numpy, Matplotlib, Seaborn, Machine Learning, Deep Learning, NLP, PostgreSQL, MS Excel, Python, R, Statistics, Probability, Vector Algebra, Data Analysis, sklearn, fastAI, etc.
      - Proficient in Java, C++, C, and Python.
