@@ -78,8 +78,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santr4?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santr4)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santr4&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
