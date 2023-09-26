@@ -80,6 +80,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santr4&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santr4)](https://git.io/streak-stats)
+
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
