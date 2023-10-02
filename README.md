@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning Front End Development.
   
-- 👀 I am deeply interested in AI, machine learning, and deep learning and currently spending most of the time learning about it and spending time on kaggle.
+- 👀 I am deeply interested in AI, machine learning, and deep learning.
   
 - 📧 How to reach me: My email id: santra.aaranyak16092003@gmail.com
 
