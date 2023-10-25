@@ -29,7 +29,7 @@
 - 💡 If any suggestions or advice then do contact me.
 
 - 🔭 My skills:
-     - HTML, CSS, JavaScript, Bootstrap, etc.
+     - HTML, CSS, JavaScript, Bootstrap, React.js, etc.
      - Tensorflow, Keras, Pytorch, Numpy, Matplotlib, Seaborn, Machine Learning, Deep Learning, NLP, PostgreSQL, MS Excel, Python, R, Statistics, Probability, Vector Algebra, Data Analysis, sklearn, fastAI, etc.
      - Proficient in Java, C++, C, and Python.
      - CS Fundamentals.
@@ -74,6 +74,9 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="scikit-learn" alt="scikit-learn" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="scikit-learn" alt="scikit-learn" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scikit-learn" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="scikit-learn" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="scikit-learn" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="scikit-learn" width="80" height="30"/>&nbsp;
 </div>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santr4?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
