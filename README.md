@@ -20,7 +20,7 @@
 
 - 👀 I like to know more about new tech around the world!
 
-- 🌱 I’m currently learning Front End Development.
+- 🌱 I’m currently working on a deep learning project.
   
 - 👀 I am deeply interested in AI, machine learning, and deep learning.
   
