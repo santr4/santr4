@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 
 - 👀 I like to know more about new tech around the world!
 
@@ -49,7 +49,7 @@
 
 - ⚡ Fun fact Love to learn, think, and implement.
 
-### :hammer_and_wrench: Languages, Tools, and Databases :
+### Languages, Tools, and Databases :
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
