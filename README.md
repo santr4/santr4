@@ -34,8 +34,6 @@
   
 - 📌 My discord username: aaranyaksantra_89984
   
-- 📄 My RESUME - [AARANYAK_SANTRA(RESUME).pdf](https://github.com/santr4/santr4/files/12370293/AARANYAK_SANTRA.RESUME.pdf) (not the updated one).
-  
 - 🧮 My Leetcode account - https://leetcode.com/user2973j/
 
 - ⚡ Fun fact Love to learn, think, and implement.
