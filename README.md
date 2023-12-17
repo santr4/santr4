@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="scikit-learn" width="80" height="30"/>&nbsp;
 </div>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santr4?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santr4?cardType=octocat&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santr4&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
