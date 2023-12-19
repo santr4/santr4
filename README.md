@@ -20,7 +20,9 @@
 
 - 👀 I like to know more about new tech around the world!
   
-- 👀 I am deeply interested in AI, machine learning, and deep learning.
+- 🌱 I am currently learning Full-Stack Development.
+
+- 👀 I also have an interest in Machine Learning and Deep Learning.
   
 - 📧 How to reach me: My email id: santra.aaranyak16092003@gmail.com
 
