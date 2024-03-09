@@ -22,8 +22,6 @@
       - ML
       - DL
       - Software Development
-  
-- 📧 How to reach me: My email id - santra.aaranyak16092003@gmail.com
 
 - 💡 If any suggestions or advice then do contact me.
        
