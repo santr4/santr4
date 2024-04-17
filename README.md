@@ -11,7 +11,7 @@
 - 👀 I have an interest in machine learning, deep learning, and software development.  
 - ⌨️ My monkey type account(70+ wpm) : (https://monkeytype.com/account).
 - ✏️ I write in medium - (https://medium.com/@santra.aaranyak16092003) and dev.to - (https://dev.to/aaranyaksantra7).
-- 🧮 My Leetcode account - (https://leetcode.com/user2973j/).
+- 🧮 My Leetcode account - (https://leetcode.com/santr4/).
 - ⚡ Fun fact: Love to learn, think, and implement.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=santr4&theme=dark)](https://git.io/streak-stats)
