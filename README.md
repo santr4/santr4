@@ -14,7 +14,7 @@
 - 🧮 My Leetcode account - (https://leetcode.com/santr4/).
 - ⚡ Fun fact: Love to learn, think, and implement.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santr4&theme=beufy-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santr4&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santr4&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
