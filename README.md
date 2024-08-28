@@ -8,6 +8,8 @@
 
 ### About Me :
 - I like exploring and learning new things.
+- Full stack Development.
+- Deep Learning.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=santr4&theme=tokyonight)](https://git.io/streak-stats)
 
