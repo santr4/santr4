@@ -7,12 +7,7 @@
 <div>
 
 ### About Me :
-- 🌱 I am currently learning Full-Stack Development.
-- 👀 I have an interest in machine learning, deep learning, and software development.  
-- ⌨️ My monkey type account(70+ wpm) : (https://monkeytype.com/account).
-- ✏️ I write in medium - (https://medium.com/@santra.aaranyak16092003) and dev.to - (https://dev.to/aaranyaksantra7).
-- 🧮 My Leetcode account - (https://leetcode.com/santr4/).
-- ⚡ Fun fact: Love to learn, think, and implement.
+- I like exploring and learning new things.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=santr4&theme=tokyonight)](https://git.io/streak-stats)
 
