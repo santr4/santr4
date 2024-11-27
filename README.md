@@ -8,6 +8,7 @@
 
 ### About Me :
 - I like exploring and learning new things.
+- Deep Learning.
 - Full stack Development.
 - Problem Solving.
 
