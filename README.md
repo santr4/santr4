@@ -7,10 +7,7 @@
 <div>
 
 ### About Me :
-- I like exploring and learning new things.
-- Deep Learning.
-- Full stack Development.
-- Problem Solving.
+- Backend by day, neural networks by night—living that double life.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santr4&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
