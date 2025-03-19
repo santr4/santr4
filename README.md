@@ -7,7 +7,7 @@
 <div>
 
 ### About Me :
-- Backend by day, neural networks by night—living that double life.
+- Exploring backend development while diving into machine learning, networks, and cloud technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santr4&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
