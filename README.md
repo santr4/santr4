@@ -7,7 +7,7 @@
 <div>
 
 ### About Me :
-- Exploring backend development while diving into machine learning, networks, and cloud technologies.
+- Building backends + exploring ML, networks, cloud.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santr4&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
