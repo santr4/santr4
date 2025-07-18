@@ -7,7 +7,7 @@
 <div>
 
 ### About Me :
-- Building backends + exploring ML, networks, cloud.
+- Building backends + exploring DL, cloud.
 
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
