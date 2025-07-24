@@ -8,9 +8,9 @@
 
 ### About Me :
 - Building backends + exploring neural nets.
-- Leetcode → santr4.
-- Kaggle → https://www.kaggle.com/aaranyaksantra.
-- Sometimes I write stuff here → santra.bearblog.dev.
+- [Leetcode Profile](https://leetcode.com/u/santr4/).
+- Exploring AI @ [Kaggle](https://www.kaggle.com/aaranyaksantra).
+- Sometimes I write stuff here → [My Blogs](https://santra.bearblog.dev).
 - Ex-Intern @ GE Aerospace.
 
 <!--
