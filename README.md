@@ -7,7 +7,11 @@
 <div>
 
 ### About Me :
-- Building backends + exploring DL, cloud.
+- Building backends + exploring neural nets.
+- Leetcode → santr4.
+- Kaggle → kaggle.com/aaranyaksantra.
+- Sometimes I write stuff here → santra.bearblog.dev.
+- Ex-Intern @ GE Aerospace.
 
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
