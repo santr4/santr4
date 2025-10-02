@@ -11,7 +11,6 @@
 - [Leetcode Profile](https://leetcode.com/u/santr4/).
 - Exploring AI @ [Kaggle](https://www.kaggle.com/aaranyaksantra).
 - Sometimes I write stuff here → [My Blogs](https://santr4.github.io/).
-- Ex-Intern @ GE Aerospace.
 
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
