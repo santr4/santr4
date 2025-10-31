@@ -8,7 +8,7 @@
 
 ### About Me :
 - I like to build backend systems, code in AI, math.
-- Previously -> (Intern)GE Aerospace.
+- Previously -> (Intern) @ GE Aerospace.
 - Exploring AI @ [Kaggle](https://www.kaggle.com/aaranyaksantra).
 - Sometimes I write stuff here → [My Blogs](https://santr4.github.io/).
 
