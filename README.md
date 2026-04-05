@@ -10,6 +10,7 @@
 - I like to build backend systems, code in AI, math.
 - Currently working as a SE at a startup. Previously -> (Intern) @ GE Aerospace.
 - Exploring AI @ [Kaggle](https://www.kaggle.com/aaranyaksantra).
+- Sometimes I like to write some stuff - [blogs](https://santr4.mataroa.blog/).
 
 <!--
 **AaranyakSantra7/AaranyakSantra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
