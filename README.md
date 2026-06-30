@@ -9,7 +9,6 @@
 ### About Me :
 - I like to build backend systems, code in AI, math.
 - Currently working as a SE at a startup. Previously -> (Intern) @ GE Aerospace.
-- Sometimes I like to write some stuff - [blogs](https://santr4.mataroa.blog/).
 - Feel free to connect with me and exchange ideas :)
 
 <!--
